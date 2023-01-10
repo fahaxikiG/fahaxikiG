@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fahaxikiG
-- 👀 I’m interested in network attack and defense
-- 🌱 I’m currently learning Linux
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
